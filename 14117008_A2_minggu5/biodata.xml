@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<biodata>
+    <nama>
+        <awal>Angelica Kirana</awal>
+        <tengah>Sandra</tengah>
+        <akhir>Dewi</akhir>
+    </nama>
+    <jeniskelamin>Perempuan</jeniskelamin>
+    <hobi>
+        <hobi1>Bacak Buku</hobi1>
+        <hobi2>Melukis</hobi2>
+    </hobi>
+    <alamat>
+        <kecamatan>Sukarame</kecamatan>
+        <kabupaten>Bandar Lampung</kabupaten>
+    </alamat>
+    <socialMedia>
+        <github>angelicaksd</github>
+        <instagram>angelicaksd</instagram>
+    </socialMedia>
+</biodata>

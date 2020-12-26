@@ -1,0 +1,22 @@
+{
+    "biodata": {
+      "nama": {
+        "awal": "Angelica Kirana",
+        "tengah": "Sandra",
+        "akhir": "Dewi"
+      },
+      "jeniskelamin": "Perempuan",
+      "hobi": {
+        "hobi1": "Baca Buku",
+        "hobi2": "Melukis"
+      },
+      "alamat": {
+        "kecamatan": "Sukarame",
+        "kabupaten": "Bandar Lampung"
+      },
+      "socialMedia": {
+        "github": "angelicaksd",
+        "instagram": "angelicaksd"
+      }
+    }
+  }
